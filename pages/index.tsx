@@ -125,7 +125,7 @@ const Home: NextPage = () => {
           </div>
           <div className="flex flex-col items-center md:order-2 order-1">
             <div className="image-wrapper px-2">
-              <img src="/images/mist22.jpg" className="rounded-lg shadow-xl hover:scale-95" />
+              <img src="/images/mist24.jpg" className="rounded-lg shadow-xl hover:scale-95" />
             </div>
           </div>
         </div>
